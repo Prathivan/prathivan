@@ -93,20 +93,6 @@ End-to-end booking and management platform for a transport business.
 
 **Education:** B.E. Mechanical Engineering — J.J. College of Engineering and Technology
 **Certification:** Full Stack Web Developer — QSpiders, India
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Prathivan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathivan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Prathivan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ### 📫 Let's Connect
